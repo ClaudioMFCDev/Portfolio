@@ -1,0 +1,33 @@
+
+.img-carrucel {
+    object-fit: none;
+    opacity: 0.8;
+}
+
+#p-carr {
+    text-shadow: 10px 1px 100px black;
+}
+
+#div-marketing {
+    margin-bottom: 5em;
+    border-bottom: 5px solid rgba(0, 0, 0, 0.562);
+    border-top: 5px solid rgba(0, 0, 0, 0.562);
+
+}
+
+.circle-mark {
+    margin-top: 5px;
+}
+
+.card-img-top{
+    width: 5em;
+    height: 10em;
+    object-fit: cover;
+}
+
+#row-footer{
+    text-align: left;
+    padding-left: 8em;
+    font-size: 18px;
+}
+
